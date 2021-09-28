@@ -1,0 +1,1 @@
+var json_HISTRICOSAfectacionesporgranizo2018_63 = {"type":"FeatureCollection","name":"HISTRICOSAfectacionesporgranizo2018_63","features":[{"type":"Feature","properties":{"CAMPO_0":null,"CAMPO_1":null,"CAMPO_2":null,"CAMPO_3":null,"CAMPO_4":null,"OID":1.0},"geometry":{"type":"Point","coordinates":[-97.788138758024616,17.802168962676628]}}]}
